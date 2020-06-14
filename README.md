@@ -5,8 +5,11 @@
 Here I have categorized every resource by their requirement of focus whether they need active or passive attention.
  * Passive resources do not require your ful attention but reasonably high attention is suggested. Like focusing on the audio when listening a podcast on the transportation(Still be careful to not to hit somewhere :P).
  * If the passive methods are kinda hard for you when doing in passive way then start doing them actively then later on transition to the passive way.
- * Here as a suggestion for passive resources, as you better understand the content, lower your attention on the audio or try to use passive material in laudy environments so that even when you dont hear so good, you still fully understand the content.
 
+# Initial Words
+ * As you use resources especially the listening resources, you can further increase the speed of the videos in order to increase the cognitive load.
+ * Here as a suggestion for passive resources, as you better understand the content, lower your attention on the audio or try to use passive material in laudy environments so that even when you dont hear so good, you still fully understand the content.
+ 
 > Also keep in mind, any web application found here also have mobile applications as well.
 
 # Reading:
@@ -24,6 +27,7 @@ Here I've put a video link on a random content of the channel for starting.
 
 ## Intermediate to Advanced:
 * [EnglishAnyone](https://www.youtube.com/playlist?list=PL2kbn2ZkwlUsQa2R23nfQkHqsyNMCk7rL)
+* Random youtube videos that native speakers consumes like [This One](https://www.youtube.com/watch?v=7d16CpWp-ok)
 
 ## Advanced to Master:
 * [Sherlock Holmes Audio Book Youtube Playlist](https://www.youtube.com/playlist?list=PLtvR3WxcinCrssK4rbVTOiWQqfsEYG6yB)
