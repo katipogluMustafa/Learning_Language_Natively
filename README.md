@@ -1,4 +1,6 @@
-# Learn English Like a Native!
+<h1 align="center">Learn English Like a Native!</h1>
+
+![](start_of_everything.png)
 
 Here I have categorized every resource by their requirement of focus whether they need active or passive attention.
  * Passive resources do not require your ful attention but reasonably high attention is suggested. Like focusing on the audio when listening a podcast on the transportation(Still be careful to not to hit somewhere :P).
