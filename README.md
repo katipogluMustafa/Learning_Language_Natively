@@ -7,7 +7,7 @@ Here I have categorized every resource by their requirement of focus whether the
  * If the passive methods are kinda hard for you when doing in passive way then start doing them actively then later on transition to the passive way.
 
 # Initial Words
- * As you use resources especially the listening resources, you can further increase the speed of the videos in order to increase the cognitive load.
+ * As you use resources especially the listening resources you get used to it but still you can further learn by increasing the speed of the videos in order to increase the cognitive load and lower the time you have to digest the words .
  * Here as a suggestion for passive resources, as you better understand the content, lower your attention on the audio or try to use passive material in laudy environments so that even when you dont hear so good, you still fully understand the content.
  
 > Also keep in mind, any web application found here also have mobile applications as well.
