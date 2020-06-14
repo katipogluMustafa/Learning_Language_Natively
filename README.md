@@ -39,3 +39,5 @@ Here I've put a video link on a random content of the channel for starting.
 * [Voscreen MobileApp or WebSite](https://www.voscreen.com/)
 
 
+# Contributions 
+Contributions appreciated also I encourage you to add resources for other languages as you like as a new file in this repository.
